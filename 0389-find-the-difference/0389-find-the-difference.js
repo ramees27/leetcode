@@ -4,11 +4,11 @@
  * @return {character}
  */
 var findTheDifference = function(s, t) {
-    s=s.split("").sort()
-    t=t.split("").sort()
+    arr1=s.split("").sort()
+    arr2=t.split("").sort()
     for(i=0;i<t.length;i++)
-     if(s[i]!==t[i]){
-       return  t[i];
+     if(arr1[i]!==arr2[i]){
+       return  arr2[i];
     }
     return "";
 };
