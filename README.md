@@ -17,6 +17,7 @@
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/ramees27/leetcode/tree/master/0389-find-the-difference) |
+| [0520-detect-capital](https://github.com/ramees27/leetcode/tree/master/0520-detect-capital) |
 ## Bit Manipulation
 |  |
 | ------- |
