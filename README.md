@@ -21,6 +21,7 @@
 | [0389-find-the-difference](https://github.com/ramees27/leetcode/tree/master/0389-find-the-difference) |
 | [0520-detect-capital](https://github.com/ramees27/leetcode/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ramees27/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0742-to-lower-case](https://github.com/ramees27/leetcode/tree/master/0742-to-lower-case) |
 ## Bit Manipulation
 |  |
 | ------- |
