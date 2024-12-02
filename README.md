@@ -8,6 +8,7 @@
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/ramees27/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/ramees27/leetcode/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/ramees27/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 ## Hash Table
@@ -44,4 +45,8 @@
 |  |
 | ------- |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ramees27/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/ramees27/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
