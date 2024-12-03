@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ramees27/leetcode/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/ramees27/leetcode/tree/master/0050-powx-n) |
 ## Array
 |  |
 | ------- |
@@ -55,4 +56,8 @@
 |  |
 | ------- |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/ramees27/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/ramees27/leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
