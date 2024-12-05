@@ -6,6 +6,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/ramees27/leetcode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/ramees27/leetcode/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/ramees27/leetcode/tree/master/0069-sqrtx) |
 | [0415-add-strings](https://github.com/ramees27/leetcode/tree/master/0415-add-strings) |
 ## Array
 |  |
@@ -54,6 +55,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ramees27/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/ramees27/leetcode/tree/master/0069-sqrtx) |
 ## String Matching
 |  |
 | ------- |
