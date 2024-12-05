@@ -6,6 +6,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/ramees27/leetcode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/ramees27/leetcode/tree/master/0050-powx-n) |
+| [0415-add-strings](https://github.com/ramees27/leetcode/tree/master/0415-add-strings) |
 ## Array
 |  |
 | ------- |
@@ -22,6 +23,7 @@
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/ramees27/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/ramees27/leetcode/tree/master/0389-find-the-difference) |
+| [0415-add-strings](https://github.com/ramees27/leetcode/tree/master/0415-add-strings) |
 | [0520-detect-capital](https://github.com/ramees27/leetcode/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ramees27/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0742-to-lower-case](https://github.com/ramees27/leetcode/tree/master/0742-to-lower-case) |
@@ -60,4 +62,8 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/ramees27/leetcode/tree/master/0050-powx-n) |
+## Simulation
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/ramees27/leetcode/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
