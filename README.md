@@ -8,6 +8,7 @@
 | [0050-powx-n](https://github.com/ramees27/leetcode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/ramees27/leetcode/tree/master/0069-sqrtx) |
 | [0415-add-strings](https://github.com/ramees27/leetcode/tree/master/0415-add-strings) |
+| [2481-strictly-palindromic-number](https://github.com/ramees27/leetcode/tree/master/2481-strictly-palindromic-number) |
 ## Array
 |  |
 | ------- |
@@ -53,6 +54,7 @@
 | ------- |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ramees27/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/ramees27/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [2481-strictly-palindromic-number](https://github.com/ramees27/leetcode/tree/master/2481-strictly-palindromic-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -70,4 +72,8 @@
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/ramees27/leetcode/tree/master/0415-add-strings) |
+## Brainteaser
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/ramees27/leetcode/tree/master/2481-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
