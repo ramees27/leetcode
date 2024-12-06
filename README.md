@@ -19,6 +19,7 @@
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/ramees27/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/ramees27/leetcode/tree/master/0389-find-the-difference) |
+| [1904-second-largest-digit-in-a-string](https://github.com/ramees27/leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 ## String
 |  |
 | ------- |
@@ -30,6 +31,7 @@
 | [0742-to-lower-case](https://github.com/ramees27/leetcode/tree/master/0742-to-lower-case) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/ramees27/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/ramees27/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1904-second-largest-digit-in-a-string](https://github.com/ramees27/leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
