@@ -9,6 +9,7 @@
 | [0069-sqrtx](https://github.com/ramees27/leetcode/tree/master/0069-sqrtx) |
 | [0415-add-strings](https://github.com/ramees27/leetcode/tree/master/0415-add-strings) |
 | [2481-strictly-palindromic-number](https://github.com/ramees27/leetcode/tree/master/2481-strictly-palindromic-number) |
+| [2608-count-the-digits-that-divide-a-number](https://github.com/ramees27/leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
 ## Array
 |  |
 | ------- |
