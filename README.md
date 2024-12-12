@@ -6,6 +6,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/ramees27/leetcode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/ramees27/leetcode/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/ramees27/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/ramees27/leetcode/tree/master/0069-sqrtx) |
 | [0415-add-strings](https://github.com/ramees27/leetcode/tree/master/0415-add-strings) |
 | [2481-strictly-palindromic-number](https://github.com/ramees27/leetcode/tree/master/2481-strictly-palindromic-number) |
@@ -14,6 +15,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ramees27/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0066-plus-one](https://github.com/ramees27/leetcode/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/ramees27/leetcode/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/ramees27/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/ramees27/leetcode/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
