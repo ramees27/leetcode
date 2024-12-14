@@ -19,6 +19,7 @@
 | [0066-plus-one](https://github.com/ramees27/leetcode/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/ramees27/leetcode/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/ramees27/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0941-sort-array-by-parity](https://github.com/ramees27/leetcode/tree/master/0941-sort-array-by-parity) |
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/ramees27/leetcode/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/ramees27/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 ## Hash Table
@@ -50,6 +51,7 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/ramees27/leetcode/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/ramees27/leetcode/tree/master/0389-find-the-difference) |
+| [0941-sort-array-by-parity](https://github.com/ramees27/leetcode/tree/master/0941-sort-array-by-parity) |
 ## Queue
 |  |
 | ------- |
@@ -63,6 +65,7 @@
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/ramees27/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ramees27/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0941-sort-array-by-parity](https://github.com/ramees27/leetcode/tree/master/0941-sort-array-by-parity) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/ramees27/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2481-strictly-palindromic-number](https://github.com/ramees27/leetcode/tree/master/2481-strictly-palindromic-number) |
 ## Binary Search
