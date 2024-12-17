@@ -29,12 +29,14 @@
 | ------- |
 | [0041-first-missing-positive](https://github.com/ramees27/leetcode/tree/master/0041-first-missing-positive) |
 | [0217-contains-duplicate](https://github.com/ramees27/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/ramees27/leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/ramees27/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/ramees27/leetcode/tree/master/0389-find-the-difference) |
 | [1904-second-largest-digit-in-a-string](https://github.com/ramees27/leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/ramees27/leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/ramees27/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/ramees27/leetcode/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/ramees27/leetcode/tree/master/0415-add-strings) |
@@ -53,6 +55,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/ramees27/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/ramees27/leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/ramees27/leetcode/tree/master/0389-find-the-difference) |
 | [0941-sort-array-by-parity](https://github.com/ramees27/leetcode/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/ramees27/leetcode/tree/master/1019-squares-of-a-sorted-array) |
