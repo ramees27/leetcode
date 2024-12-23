@@ -20,6 +20,7 @@
 | [0041-first-missing-positive](https://github.com/ramees27/leetcode/tree/master/0041-first-missing-positive) |
 | [0066-plus-one](https://github.com/ramees27/leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/ramees27/leetcode/tree/master/0075-sort-colors) |
+| [0137-single-number-ii](https://github.com/ramees27/leetcode/tree/master/0137-single-number-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ramees27/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/ramees27/leetcode/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/ramees27/leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -52,6 +53,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/ramees27/leetcode/tree/master/0137-single-number-ii) |
 | [0287-find-the-duplicate-number](https://github.com/ramees27/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/ramees27/leetcode/tree/master/0389-find-the-difference) |
 ## Sorting
