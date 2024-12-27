@@ -10,6 +10,7 @@
 | [0066-plus-one](https://github.com/ramees27/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/ramees27/leetcode/tree/master/0069-sqrtx) |
 | [0415-add-strings](https://github.com/ramees27/leetcode/tree/master/0415-add-strings) |
+| [1274-number-of-days-between-two-dates](https://github.com/ramees27/leetcode/tree/master/1274-number-of-days-between-two-dates) |
 | [2481-strictly-palindromic-number](https://github.com/ramees27/leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/ramees27/leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
 ## Array
@@ -51,6 +52,7 @@
 | [0520-detect-capital](https://github.com/ramees27/leetcode/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ramees27/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0742-to-lower-case](https://github.com/ramees27/leetcode/tree/master/0742-to-lower-case) |
+| [1274-number-of-days-between-two-dates](https://github.com/ramees27/leetcode/tree/master/1274-number-of-days-between-two-dates) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/ramees27/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/ramees27/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1904-second-largest-digit-in-a-string](https://github.com/ramees27/leetcode/tree/master/1904-second-largest-digit-in-a-string) |
