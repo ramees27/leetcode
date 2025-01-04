@@ -60,6 +60,7 @@
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/ramees27/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/ramees27/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1904-second-largest-digit-in-a-string](https://github.com/ramees27/leetcode/tree/master/1904-second-largest-digit-in-a-string) |
+| [2999-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/ramees27/leetcode/tree/master/2999-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3636-check-balanced-string](https://github.com/ramees27/leetcode/tree/master/3636-check-balanced-string) |
 ## Bit Manipulation
 |  |
