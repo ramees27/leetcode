@@ -33,6 +33,7 @@
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/ramees27/leetcode/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/ramees27/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ramees27/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3206-find-common-elements-between-two-arrays](https://github.com/ramees27/leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/ramees27/leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Hash Table
 |  |
@@ -44,6 +45,7 @@
 | [0389-find-the-difference](https://github.com/ramees27/leetcode/tree/master/0389-find-the-difference) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/ramees27/leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1904-second-largest-digit-in-a-string](https://github.com/ramees27/leetcode/tree/master/1904-second-largest-digit-in-a-string) |
+| [3206-find-common-elements-between-two-arrays](https://github.com/ramees27/leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 ## String
 |  |
 | ------- |
