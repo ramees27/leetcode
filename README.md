@@ -17,6 +17,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ramees27/leetcode/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ramees27/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ramees27/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/ramees27/leetcode/tree/master/0041-first-missing-positive) |
@@ -40,6 +41,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ramees27/leetcode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/ramees27/leetcode/tree/master/0041-first-missing-positive) |
 | [0217-contains-duplicate](https://github.com/ramees27/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ramees27/leetcode/tree/master/0242-valid-anagram) |
