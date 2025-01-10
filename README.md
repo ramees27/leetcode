@@ -71,6 +71,7 @@
 | [1904-second-largest-digit-in-a-string](https://github.com/ramees27/leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/ramees27/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2502-sort-the-people](https://github.com/ramees27/leetcode/tree/master/2502-sort-the-people) |
+| [2819-remove-trailing-zeros-from-a-string](https://github.com/ramees27/leetcode/tree/master/2819-remove-trailing-zeros-from-a-string) |
 | [2999-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/ramees27/leetcode/tree/master/2999-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3636-check-balanced-string](https://github.com/ramees27/leetcode/tree/master/3636-check-balanced-string) |
 ## Bit Manipulation
