@@ -12,6 +12,7 @@
 | [0415-add-strings](https://github.com/ramees27/leetcode/tree/master/0415-add-strings) |
 | [1274-number-of-days-between-two-dates](https://github.com/ramees27/leetcode/tree/master/1274-number-of-days-between-two-dates) |
 | [2481-strictly-palindromic-number](https://github.com/ramees27/leetcode/tree/master/2481-strictly-palindromic-number) |
+| [2507-number-of-common-factors](https://github.com/ramees27/leetcode/tree/master/2507-number-of-common-factors) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/ramees27/leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/ramees27/leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Array
@@ -168,4 +169,12 @@
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/ramees27/leetcode/tree/master/0948-sort-an-array) |
+## Enumeration
+|  |
+| ------- |
+| [2507-number-of-common-factors](https://github.com/ramees27/leetcode/tree/master/2507-number-of-common-factors) |
+## Number Theory
+|  |
+| ------- |
+| [2507-number-of-common-factors](https://github.com/ramees27/leetcode/tree/master/2507-number-of-common-factors) |
 <!---LeetCode Topics End-->
