@@ -12,6 +12,7 @@
 | [0415-add-strings](https://github.com/ramees27/leetcode/tree/master/0415-add-strings) |
 | [1274-number-of-days-between-two-dates](https://github.com/ramees27/leetcode/tree/master/1274-number-of-days-between-two-dates) |
 | [2481-strictly-palindromic-number](https://github.com/ramees27/leetcode/tree/master/2481-strictly-palindromic-number) |
+| [2491-smallest-even-multiple](https://github.com/ramees27/leetcode/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/ramees27/leetcode/tree/master/2507-number-of-common-factors) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/ramees27/leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/ramees27/leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -179,5 +180,6 @@
 ## Number Theory
 |  |
 | ------- |
+| [2491-smallest-even-multiple](https://github.com/ramees27/leetcode/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/ramees27/leetcode/tree/master/2507-number-of-common-factors) |
 <!---LeetCode Topics End-->
