@@ -72,6 +72,7 @@
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/ramees27/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/ramees27/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1904-second-largest-digit-in-a-string](https://github.com/ramees27/leetcode/tree/master/1904-second-largest-digit-in-a-string) |
+| [1970-sorting-the-sentence](https://github.com/ramees27/leetcode/tree/master/1970-sorting-the-sentence) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/ramees27/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2365-percentage-of-letter-in-string](https://github.com/ramees27/leetcode/tree/master/2365-percentage-of-letter-in-string) |
 | [2502-sort-the-people](https://github.com/ramees27/leetcode/tree/master/2502-sort-the-people) |
@@ -96,6 +97,7 @@
 | [0948-sort-an-array](https://github.com/ramees27/leetcode/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/ramees27/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ramees27/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1970-sorting-the-sentence](https://github.com/ramees27/leetcode/tree/master/1970-sorting-the-sentence) |
 | [2502-sort-the-people](https://github.com/ramees27/leetcode/tree/master/2502-sort-the-people) |
 ## Queue
 |  |
