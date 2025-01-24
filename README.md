@@ -10,6 +10,7 @@
 | [0066-plus-one](https://github.com/ramees27/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/ramees27/leetcode/tree/master/0069-sqrtx) |
 | [0415-add-strings](https://github.com/ramees27/leetcode/tree/master/0415-add-strings) |
+| [0944-smallest-range-i](https://github.com/ramees27/leetcode/tree/master/0944-smallest-range-i) |
 | [1274-number-of-days-between-two-dates](https://github.com/ramees27/leetcode/tree/master/1274-number-of-days-between-two-dates) |
 | [2481-strictly-palindromic-number](https://github.com/ramees27/leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2491-smallest-even-multiple](https://github.com/ramees27/leetcode/tree/master/2491-smallest-even-multiple) |
@@ -30,6 +31,7 @@
 | [0217-contains-duplicate](https://github.com/ramees27/leetcode/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/ramees27/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0941-sort-array-by-parity](https://github.com/ramees27/leetcode/tree/master/0941-sort-array-by-parity) |
+| [0944-smallest-range-i](https://github.com/ramees27/leetcode/tree/master/0944-smallest-range-i) |
 | [0948-sort-an-array](https://github.com/ramees27/leetcode/tree/master/0948-sort-an-array) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/ramees27/leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/ramees27/leetcode/tree/master/1019-squares-of-a-sorted-array) |
