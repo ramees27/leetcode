@@ -36,6 +36,7 @@
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/ramees27/leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/ramees27/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/ramees27/leetcode/tree/master/1168-duplicate-zeros) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ramees27/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ramees27/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/ramees27/leetcode/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/ramees27/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -131,6 +132,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ramees27/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/ramees27/leetcode/tree/master/0069-sqrtx) |
 | [0287-find-the-duplicate-number](https://github.com/ramees27/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ramees27/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## String Matching
 |  |
 | ------- |
@@ -190,4 +192,8 @@
 | ------- |
 | [2491-smallest-even-multiple](https://github.com/ramees27/leetcode/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/ramees27/leetcode/tree/master/2507-number-of-common-factors) |
+## Matrix
+|  |
+| ------- |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ramees27/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
