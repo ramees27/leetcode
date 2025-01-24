@@ -40,6 +40,7 @@
 | [2271-rearrange-array-elements-by-sign](https://github.com/ramees27/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/ramees27/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2502-sort-the-people](https://github.com/ramees27/leetcode/tree/master/2502-sort-the-people) |
+| [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/ramees27/leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/ramees27/leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/ramees27/leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Hash Table
@@ -77,6 +78,7 @@
 | [2365-percentage-of-letter-in-string](https://github.com/ramees27/leetcode/tree/master/2365-percentage-of-letter-in-string) |
 | [2502-sort-the-people](https://github.com/ramees27/leetcode/tree/master/2502-sort-the-people) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/ramees27/leetcode/tree/master/2819-remove-trailing-zeros-from-a-string) |
+| [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/ramees27/leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [2999-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/ramees27/leetcode/tree/master/2999-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3636-check-balanced-string](https://github.com/ramees27/leetcode/tree/master/3636-check-balanced-string) |
 ## Bit Manipulation
