@@ -55,6 +55,7 @@
 | [0242-valid-anagram](https://github.com/ramees27/leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/ramees27/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/ramees27/leetcode/tree/master/0389-find-the-difference) |
+| [0782-jewels-and-stones](https://github.com/ramees27/leetcode/tree/master/0782-jewels-and-stones) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/ramees27/leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ramees27/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1904-second-largest-digit-in-a-string](https://github.com/ramees27/leetcode/tree/master/1904-second-largest-digit-in-a-string) |
@@ -71,6 +72,7 @@
 | [0520-detect-capital](https://github.com/ramees27/leetcode/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ramees27/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0742-to-lower-case](https://github.com/ramees27/leetcode/tree/master/0742-to-lower-case) |
+| [0782-jewels-and-stones](https://github.com/ramees27/leetcode/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/ramees27/leetcode/tree/master/0812-rotate-string) |
 | [1274-number-of-days-between-two-dates](https://github.com/ramees27/leetcode/tree/master/1274-number-of-days-between-two-dates) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/ramees27/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
