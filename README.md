@@ -16,6 +16,7 @@
 | [2491-smallest-even-multiple](https://github.com/ramees27/leetcode/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/ramees27/leetcode/tree/master/2507-number-of-common-factors) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/ramees27/leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
+| [2752-sum-multiples](https://github.com/ramees27/leetcode/tree/master/2752-sum-multiples) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/ramees27/leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Array
 |  |
