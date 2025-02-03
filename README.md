@@ -204,5 +204,6 @@
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/ramees27/leetcode/tree/master/0175-combine-two-tables) |
 | [0627-swap-salary](https://github.com/ramees27/leetcode/tree/master/0627-swap-salary) |
 <!---LeetCode Topics End-->
