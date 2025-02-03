@@ -1,4 +1,8 @@
 /* Write your T-SQL query statement below */
-update salary set sex=
- iif(sex='m','f','m');
-    
+UPDATE SALARY
+SET sex=CASE 
+WHEN sex='m' THEN 'f'
+WHEN sex='f' THEN 'm'
+END;
+             
+  
