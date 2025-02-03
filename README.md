@@ -201,4 +201,8 @@
 |  |
 | ------- |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ramees27/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+## Database
+|  |
+| ------- |
+| [0627-swap-salary](https://github.com/ramees27/leetcode/tree/master/0627-swap-salary) |
 <!---LeetCode Topics End-->
