@@ -206,4 +206,5 @@
 | ------- |
 | [0175-combine-two-tables](https://github.com/ramees27/leetcode/tree/master/0175-combine-two-tables) |
 | [0627-swap-salary](https://github.com/ramees27/leetcode/tree/master/0627-swap-salary) |
+| [1179-game-play-analysis-i](https://github.com/ramees27/leetcode/tree/master/1179-game-play-analysis-i) |
 <!---LeetCode Topics End-->
