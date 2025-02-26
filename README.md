@@ -217,4 +217,5 @@
 | [1734-bank-account-summary-ii](https://github.com/ramees27/leetcode/tree/master/1734-bank-account-summary-ii) |
 | [1837-daily-leads-and-partners](https://github.com/ramees27/leetcode/tree/master/1837-daily-leads-and-partners) |
 | [2110-employees-with-missing-information](https://github.com/ramees27/leetcode/tree/master/2110-employees-with-missing-information) |
+| [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/ramees27/leetcode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
