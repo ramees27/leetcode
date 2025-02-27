@@ -39,6 +39,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/ramees27/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/ramees27/leetcode/tree/master/1168-duplicate-zeros) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ramees27/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1524-string-matching-in-an-array](https://github.com/ramees27/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ramees27/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/ramees27/leetcode/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/ramees27/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -77,6 +78,7 @@
 | [0782-jewels-and-stones](https://github.com/ramees27/leetcode/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/ramees27/leetcode/tree/master/0812-rotate-string) |
 | [1274-number-of-days-between-two-dates](https://github.com/ramees27/leetcode/tree/master/1274-number-of-days-between-two-dates) |
+| [1524-string-matching-in-an-array](https://github.com/ramees27/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/ramees27/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/ramees27/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1904-second-largest-digit-in-a-string](https://github.com/ramees27/leetcode/tree/master/1904-second-largest-digit-in-a-string) |
@@ -142,6 +144,7 @@
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/ramees27/leetcode/tree/master/0812-rotate-string) |
+| [1524-string-matching-in-an-array](https://github.com/ramees27/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/ramees27/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/ramees27/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Recursion
