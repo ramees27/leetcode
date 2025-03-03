@@ -43,6 +43,7 @@
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ramees27/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/ramees27/leetcode/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/ramees27/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1848-sum-of-unique-elements](https://github.com/ramees27/leetcode/tree/master/1848-sum-of-unique-elements) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ramees27/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/ramees27/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2502-sort-the-people](https://github.com/ramees27/leetcode/tree/master/2502-sort-the-people) |
@@ -61,6 +62,7 @@
 | [0782-jewels-and-stones](https://github.com/ramees27/leetcode/tree/master/0782-jewels-and-stones) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/ramees27/leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ramees27/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1848-sum-of-unique-elements](https://github.com/ramees27/leetcode/tree/master/1848-sum-of-unique-elements) |
 | [1904-second-largest-digit-in-a-string](https://github.com/ramees27/leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 | [2502-sort-the-people](https://github.com/ramees27/leetcode/tree/master/2502-sort-the-people) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/ramees27/leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
@@ -120,6 +122,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/ramees27/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1848-sum-of-unique-elements](https://github.com/ramees27/leetcode/tree/master/1848-sum-of-unique-elements) |
 ## Two Pointers
 |  |
 | ------- |
