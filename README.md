@@ -50,6 +50,7 @@
 | [2502-sort-the-people](https://github.com/ramees27/leetcode/tree/master/2502-sort-the-people) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/ramees27/leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/ramees27/leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
+| [3226-minimum-number-game](https://github.com/ramees27/leetcode/tree/master/3226-minimum-number-game) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/ramees27/leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Hash Table
 |  |
@@ -115,6 +116,7 @@
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ramees27/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1970-sorting-the-sentence](https://github.com/ramees27/leetcode/tree/master/1970-sorting-the-sentence) |
 | [2502-sort-the-people](https://github.com/ramees27/leetcode/tree/master/2502-sort-the-people) |
+| [3226-minimum-number-game](https://github.com/ramees27/leetcode/tree/master/3226-minimum-number-game) |
 ## Queue
 |  |
 | ------- |
@@ -161,6 +163,7 @@
 | [0415-add-strings](https://github.com/ramees27/leetcode/tree/master/0415-add-strings) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ramees27/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2886-faulty-keyboard](https://github.com/ramees27/leetcode/tree/master/2886-faulty-keyboard) |
+| [3226-minimum-number-game](https://github.com/ramees27/leetcode/tree/master/3226-minimum-number-game) |
 ## Brainteaser
 |  |
 | ------- |
@@ -175,6 +178,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ramees27/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0948-sort-an-array](https://github.com/ramees27/leetcode/tree/master/0948-sort-an-array) |
+| [3226-minimum-number-game](https://github.com/ramees27/leetcode/tree/master/3226-minimum-number-game) |
 ## Quickselect
 |  |
 | ------- |
