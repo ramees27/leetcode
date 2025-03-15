@@ -82,6 +82,7 @@
 | [0742-to-lower-case](https://github.com/ramees27/leetcode/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/ramees27/leetcode/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/ramees27/leetcode/tree/master/0812-rotate-string) |
+| [1205-defanging-an-ip-address](https://github.com/ramees27/leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1274-number-of-days-between-two-dates](https://github.com/ramees27/leetcode/tree/master/1274-number-of-days-between-two-dates) |
 | [1524-string-matching-in-an-array](https://github.com/ramees27/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/ramees27/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
