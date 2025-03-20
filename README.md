@@ -70,6 +70,7 @@
 | [1848-sum-of-unique-elements](https://github.com/ramees27/leetcode/tree/master/1848-sum-of-unique-elements) |
 | [1904-second-largest-digit-in-a-string](https://github.com/ramees27/leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 | [2502-sort-the-people](https://github.com/ramees27/leetcode/tree/master/2502-sort-the-people) |
+| [2825-minimize-string-length](https://github.com/ramees27/leetcode/tree/master/2825-minimize-string-length) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/ramees27/leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 ## String
 |  |
@@ -95,6 +96,7 @@
 | [2365-percentage-of-letter-in-string](https://github.com/ramees27/leetcode/tree/master/2365-percentage-of-letter-in-string) |
 | [2502-sort-the-people](https://github.com/ramees27/leetcode/tree/master/2502-sort-the-people) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/ramees27/leetcode/tree/master/2819-remove-trailing-zeros-from-a-string) |
+| [2825-minimize-string-length](https://github.com/ramees27/leetcode/tree/master/2825-minimize-string-length) |
 | [2886-faulty-keyboard](https://github.com/ramees27/leetcode/tree/master/2886-faulty-keyboard) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/ramees27/leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [2999-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/ramees27/leetcode/tree/master/2999-check-if-strings-can-be-made-equal-with-operations-i) |
