@@ -54,6 +54,7 @@
 | [3194-find-words-containing-character](https://github.com/ramees27/leetcode/tree/master/3194-find-words-containing-character) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/ramees27/leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3226-minimum-number-game](https://github.com/ramees27/leetcode/tree/master/3226-minimum-number-game) |
+| [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ramees27/leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/ramees27/leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Hash Table
 |  |
@@ -72,6 +73,7 @@
 | [2502-sort-the-people](https://github.com/ramees27/leetcode/tree/master/2502-sort-the-people) |
 | [2825-minimize-string-length](https://github.com/ramees27/leetcode/tree/master/2825-minimize-string-length) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/ramees27/leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
+| [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ramees27/leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## String
 |  |
 | ------- |
@@ -125,6 +127,7 @@
 | [2502-sort-the-people](https://github.com/ramees27/leetcode/tree/master/2502-sort-the-people) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/ramees27/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3226-minimum-number-game](https://github.com/ramees27/leetcode/tree/master/3226-minimum-number-game) |
+| [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ramees27/leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Queue
 |  |
 | ------- |
