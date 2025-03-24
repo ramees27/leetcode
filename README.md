@@ -240,6 +240,7 @@
 | [0627-swap-salary](https://github.com/ramees27/leetcode/tree/master/0627-swap-salary) |
 | [1179-game-play-analysis-i](https://github.com/ramees27/leetcode/tree/master/1179-game-play-analysis-i) |
 | [1258-article-views-i](https://github.com/ramees27/leetcode/tree/master/1258-article-views-i) |
+| [1462-list-the-products-ordered-in-a-period](https://github.com/ramees27/leetcode/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/ramees27/leetcode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1734-bank-account-summary-ii](https://github.com/ramees27/leetcode/tree/master/1734-bank-account-summary-ii) |
 | [1837-daily-leads-and-partners](https://github.com/ramees27/leetcode/tree/master/1837-daily-leads-and-partners) |
