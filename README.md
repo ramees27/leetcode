@@ -248,6 +248,7 @@
 | [2110-employees-with-missing-information](https://github.com/ramees27/leetcode/tree/master/2110-employees-with-missing-information) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/ramees27/leetcode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 | [3803-find-products-with-valid-serial-numbers](https://github.com/ramees27/leetcode/tree/master/3803-find-products-with-valid-serial-numbers) |
+| [3816-dna-pattern-recognition](https://github.com/ramees27/leetcode/tree/master/3816-dna-pattern-recognition) |
 ## Greedy
 |  |
 | ------- |
