@@ -55,6 +55,7 @@
 | [3206-find-common-elements-between-two-arrays](https://github.com/ramees27/leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3226-minimum-number-game](https://github.com/ramees27/leetcode/tree/master/3226-minimum-number-game) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ramees27/leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3324-split-the-array](https://github.com/ramees27/leetcode/tree/master/3324-split-the-array) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/ramees27/leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Hash Table
 |  |
@@ -74,6 +75,7 @@
 | [2825-minimize-string-length](https://github.com/ramees27/leetcode/tree/master/2825-minimize-string-length) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/ramees27/leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ramees27/leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3324-split-the-array](https://github.com/ramees27/leetcode/tree/master/3324-split-the-array) |
 ## String
 |  |
 | ------- |
@@ -138,6 +140,7 @@
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/ramees27/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1848-sum-of-unique-elements](https://github.com/ramees27/leetcode/tree/master/1848-sum-of-unique-elements) |
+| [3324-split-the-array](https://github.com/ramees27/leetcode/tree/master/3324-split-the-array) |
 ## Two Pointers
 |  |
 | ------- |
