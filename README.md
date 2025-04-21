@@ -55,6 +55,7 @@
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/ramees27/leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3194-find-words-containing-character](https://github.com/ramees27/leetcode/tree/master/3194-find-words-containing-character) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/ramees27/leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
+| [3221-find-the-peaks](https://github.com/ramees27/leetcode/tree/master/3221-find-the-peaks) |
 | [3226-minimum-number-game](https://github.com/ramees27/leetcode/tree/master/3226-minimum-number-game) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ramees27/leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3324-split-the-array](https://github.com/ramees27/leetcode/tree/master/3324-split-the-array) |
@@ -224,6 +225,7 @@
 |  |
 | ------- |
 | [2507-number-of-common-factors](https://github.com/ramees27/leetcode/tree/master/2507-number-of-common-factors) |
+| [3221-find-the-peaks](https://github.com/ramees27/leetcode/tree/master/3221-find-the-peaks) |
 ## Number Theory
 |  |
 | ------- |
