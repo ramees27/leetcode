@@ -101,6 +101,7 @@
 | [1904-second-largest-digit-in-a-string](https://github.com/ramees27/leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 | [1970-sorting-the-sentence](https://github.com/ramees27/leetcode/tree/master/1970-sorting-the-sentence) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/ramees27/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2361-calculate-digit-sum-of-a-string](https://github.com/ramees27/leetcode/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [2365-percentage-of-letter-in-string](https://github.com/ramees27/leetcode/tree/master/2365-percentage-of-letter-in-string) |
 | [2502-sort-the-people](https://github.com/ramees27/leetcode/tree/master/2502-sort-the-people) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/ramees27/leetcode/tree/master/2819-remove-trailing-zeros-from-a-string) |
@@ -184,6 +185,7 @@
 | ------- |
 | [0415-add-strings](https://github.com/ramees27/leetcode/tree/master/0415-add-strings) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ramees27/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2361-calculate-digit-sum-of-a-string](https://github.com/ramees27/leetcode/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [2886-faulty-keyboard](https://github.com/ramees27/leetcode/tree/master/2886-faulty-keyboard) |
 | [3226-minimum-number-game](https://github.com/ramees27/leetcode/tree/master/3226-minimum-number-game) |
 ## Brainteaser
