@@ -9,6 +9,7 @@
 | [0050-powx-n](https://github.com/ramees27/leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/ramees27/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/ramees27/leetcode/tree/master/0069-sqrtx) |
+| [0326-power-of-three](https://github.com/ramees27/leetcode/tree/master/0326-power-of-three) |
 | [0415-add-strings](https://github.com/ramees27/leetcode/tree/master/0415-add-strings) |
 | [0944-smallest-range-i](https://github.com/ramees27/leetcode/tree/master/0944-smallest-range-i) |
 | [1274-number-of-days-between-two-dates](https://github.com/ramees27/leetcode/tree/master/1274-number-of-days-between-two-dates) |
@@ -181,6 +182,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/ramees27/leetcode/tree/master/0050-powx-n) |
+| [0326-power-of-three](https://github.com/ramees27/leetcode/tree/master/0326-power-of-three) |
 ## Simulation
 |  |
 | ------- |
