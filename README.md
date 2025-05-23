@@ -54,6 +54,7 @@
 | [2292-counting-words-with-a-given-prefix](https://github.com/ramees27/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2502-sort-the-people](https://github.com/ramees27/leetcode/tree/master/2502-sort-the-people) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/ramees27/leetcode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
+| [2844-sum-of-squares-of-special-elements](https://github.com/ramees27/leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/ramees27/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/ramees27/leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3194-find-words-containing-character](https://github.com/ramees27/leetcode/tree/master/3194-find-words-containing-character) |
@@ -236,6 +237,7 @@
 |  |
 | ------- |
 | [2507-number-of-common-factors](https://github.com/ramees27/leetcode/tree/master/2507-number-of-common-factors) |
+| [2844-sum-of-squares-of-special-elements](https://github.com/ramees27/leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3221-find-the-peaks](https://github.com/ramees27/leetcode/tree/master/3221-find-the-peaks) |
 ## Number Theory
 |  |
