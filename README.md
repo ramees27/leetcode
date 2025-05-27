@@ -12,6 +12,7 @@
 | [0231-power-of-two](https://github.com/ramees27/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/ramees27/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ramees27/leetcode/tree/master/0342-power-of-four) |
+| [0412-fizz-buzz](https://github.com/ramees27/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/ramees27/leetcode/tree/master/0415-add-strings) |
 | [0944-smallest-range-i](https://github.com/ramees27/leetcode/tree/master/0944-smallest-range-i) |
 | [1274-number-of-days-between-two-dates](https://github.com/ramees27/leetcode/tree/master/1274-number-of-days-between-two-dates) |
@@ -91,6 +92,7 @@
 | [0242-valid-anagram](https://github.com/ramees27/leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/ramees27/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/ramees27/leetcode/tree/master/0389-find-the-difference) |
+| [0412-fizz-buzz](https://github.com/ramees27/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/ramees27/leetcode/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/ramees27/leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0520-detect-capital](https://github.com/ramees27/leetcode/tree/master/0520-detect-capital) |
@@ -193,6 +195,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/ramees27/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/ramees27/leetcode/tree/master/0415-add-strings) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ramees27/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/ramees27/leetcode/tree/master/2361-calculate-digit-sum-of-a-string) |
