@@ -52,6 +52,7 @@
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/ramees27/leetcode/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/ramees27/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1848-sum-of-unique-elements](https://github.com/ramees27/leetcode/tree/master/1848-sum-of-unique-elements) |
+| [2048-build-array-from-permutation](https://github.com/ramees27/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ramees27/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/ramees27/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2502-sort-the-people](https://github.com/ramees27/leetcode/tree/master/2502-sort-the-people) |
@@ -198,6 +199,7 @@
 | ------- |
 | [0412-fizz-buzz](https://github.com/ramees27/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/ramees27/leetcode/tree/master/0415-add-strings) |
+| [2048-build-array-from-permutation](https://github.com/ramees27/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ramees27/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/ramees27/leetcode/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [2886-faulty-keyboard](https://github.com/ramees27/leetcode/tree/master/2886-faulty-keyboard) |
