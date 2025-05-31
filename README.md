@@ -40,6 +40,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/ramees27/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/ramees27/leetcode/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/ramees27/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0575-distribute-candies](https://github.com/ramees27/leetcode/tree/master/0575-distribute-candies) |
 | [0941-sort-array-by-parity](https://github.com/ramees27/leetcode/tree/master/0941-sort-array-by-parity) |
 | [0944-smallest-range-i](https://github.com/ramees27/leetcode/tree/master/0944-smallest-range-i) |
 | [0948-sort-an-array](https://github.com/ramees27/leetcode/tree/master/0948-sort-an-array) |
@@ -77,6 +78,7 @@
 | [0242-valid-anagram](https://github.com/ramees27/leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/ramees27/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/ramees27/leetcode/tree/master/0389-find-the-difference) |
+| [0575-distribute-candies](https://github.com/ramees27/leetcode/tree/master/0575-distribute-candies) |
 | [0782-jewels-and-stones](https://github.com/ramees27/leetcode/tree/master/0782-jewels-and-stones) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/ramees27/leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ramees27/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
