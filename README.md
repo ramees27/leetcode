@@ -52,6 +52,7 @@
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/ramees27/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ramees27/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/ramees27/leetcode/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
+| [1580-shuffle-the-array](https://github.com/ramees27/leetcode/tree/master/1580-shuffle-the-array) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/ramees27/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1848-sum-of-unique-elements](https://github.com/ramees27/leetcode/tree/master/1848-sum-of-unique-elements) |
 | [2048-build-array-from-permutation](https://github.com/ramees27/leetcode/tree/master/2048-build-array-from-permutation) |
