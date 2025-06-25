@@ -18,6 +18,7 @@
 | [0944-smallest-range-i](https://github.com/ramees27/leetcode/tree/master/0944-smallest-range-i) |
 | [1274-number-of-days-between-two-dates](https://github.com/ramees27/leetcode/tree/master/1274-number-of-days-between-two-dates) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ramees27/leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1500-count-largest-group](https://github.com/ramees27/leetcode/tree/master/1500-count-largest-group) |
 | [2481-strictly-palindromic-number](https://github.com/ramees27/leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2491-smallest-even-multiple](https://github.com/ramees27/leetcode/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/ramees27/leetcode/tree/master/2507-number-of-common-factors) |
@@ -84,6 +85,7 @@
 | [0575-distribute-candies](https://github.com/ramees27/leetcode/tree/master/0575-distribute-candies) |
 | [0782-jewels-and-stones](https://github.com/ramees27/leetcode/tree/master/0782-jewels-and-stones) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/ramees27/leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1500-count-largest-group](https://github.com/ramees27/leetcode/tree/master/1500-count-largest-group) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ramees27/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1848-sum-of-unique-elements](https://github.com/ramees27/leetcode/tree/master/1848-sum-of-unique-elements) |
 | [1904-second-largest-digit-in-a-string](https://github.com/ramees27/leetcode/tree/master/1904-second-largest-digit-in-a-string) |
