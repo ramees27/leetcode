@@ -17,6 +17,7 @@
 | [0415-add-strings](https://github.com/ramees27/leetcode/tree/master/0415-add-strings) |
 | [0944-smallest-range-i](https://github.com/ramees27/leetcode/tree/master/0944-smallest-range-i) |
 | [1274-number-of-days-between-two-dates](https://github.com/ramees27/leetcode/tree/master/1274-number-of-days-between-two-dates) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/ramees27/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ramees27/leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1500-count-largest-group](https://github.com/ramees27/leetcode/tree/master/1500-count-largest-group) |
 | [2481-strictly-palindromic-number](https://github.com/ramees27/leetcode/tree/master/2481-strictly-palindromic-number) |
@@ -49,6 +50,7 @@
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/ramees27/leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/ramees27/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/ramees27/leetcode/tree/master/1168-duplicate-zeros) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/ramees27/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ramees27/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1524-string-matching-in-an-array](https://github.com/ramees27/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/ramees27/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
